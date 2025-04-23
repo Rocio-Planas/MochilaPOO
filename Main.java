@@ -9,7 +9,7 @@ public class Main {
         int cantObj;
 
 
-        System.out.println("Introduzca la cantidad de objetos");
+        System.out.println("Introduzca la cantidad de objetos que usted quiere");
         while(true){
             try{
                 cantObj = in.nextInt();
